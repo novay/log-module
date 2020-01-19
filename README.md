@@ -70,10 +70,28 @@ To use the trait:
 1. Include the call in the head of your class file:
 
 ```php
-    use ActivityLogger;
+<?php
+
+namespace ...
+
+use ActivityLogger;
+
+class ...
 ```
 
-2. You can record the activity by calling the traits method:
+2. Include the trait call in the opening of your class:
+
+```php
+<?php
+
+class ExampleController extends Controller {
+    use ActivityLogger;
+    
+    ...
+}
+```
+
+3. You can record the activity by calling the traits method:
 
 ```
     ActivityLogger::activity("Logging this activity.");
