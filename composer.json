@@ -1,5 +1,5 @@
 {
-    "name": "novay/notifier-module",
+    "name": "novay/log-module",
     "description": "Laravel Logger Package",
     "keywords": [
         "Laravel activity",
