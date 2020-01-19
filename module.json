@@ -1,0 +1,15 @@
+{
+    "name": "Log",
+    "alias": "log",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Log\\Providers\\LogServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "Helpers/Log.php"
+    ], 
+    "requires": []
+}
