@@ -82,7 +82,7 @@ class ...
 2. Include the trait call in the opening of your class:
 
 ```php
-<?php
+...
 
 class ExampleController extends Controller {
     use ActivityLogger;
