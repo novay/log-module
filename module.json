@@ -9,7 +9,7 @@
     ],
     "aliases": {},
     "files": [
-        "Helpers/Log.php"
+        "helpers.php"
     ], 
     "requires": []
 }
