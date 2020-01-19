@@ -124,7 +124,6 @@ class ExampleController extends Controller {
 |Uses font awesome & cdn assets online|
 |Uses [Geoplugin API](http://www.geoplugin.com/) for drilldown IP meta information|
 |Uses Language localization files|
-|Lots of [configuration](#configuration) options|
 
 ### Screenshots
 ![dashboard](https://s3-us-west-2.amazonaws.com/github-project-images/laravel-logger/1-dashboard.jpg)
